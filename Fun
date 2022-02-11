@@ -1,0 +1,13 @@
+public class Fun{
+//It begins...
+public static void main(String args[]){
+
+int Ham = 15;
+int Cheese = 10;
+int Bread = 5;
+int Sandwhich = Bread * 2 + Ham + Cheese;
+
+System.out.println("This ends up making uhhhh, a sandwhich with a value of : " + Sandwhich); 
+      
+      }
+ }
